@@ -5,4 +5,4 @@
 .env
 
 # Tesseract OCR language data files
-eng.traineddata.env
+eng.traineddata
